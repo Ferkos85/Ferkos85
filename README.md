@@ -2,10 +2,10 @@
 - 👀 I’m interested in ... Design, Cars, Music, Art, web design, product design
 - 🌱 I’m currently learning ... For Full stack developer, UX & UI Design
 - 💞️ I’m looking to collaborate on ... Web design
-- 📫 How to reach me ... you follow me 
-Mail: jfsanchez@josera.com.mx / josefdosava@gmail.com
-Linkedin: https://www.linkedin.com/in/j-fernando-s%C3%A1nchez-b714142a/
-Behance: https://www.behance.net/josefesanchez
+- 📫 How to reach me ... you follow me
+<br>Mail: jfsanchez@josera.com.mx / josefdosava@gmail.com
+<br>Linkedin: https://www.linkedin.com/in/j-fernando-s%C3%A1nchez-b714142a/
+<br>Behance: https://www.behance.net/josefesanchez
 
 
 
